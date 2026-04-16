@@ -1,25 +1,3 @@
-
-
-* Authentication (Admin + Employee)
-* Employee management (add/edit)
-* Self-service profile editing
-* ⭐ 5-star performance rating
-* Backend API + database
-* Ready to expand into full HRMS
-
-You can build everything else (payroll, leave, etc.) on top of this.
-
----
-
-# ✅ **TECH STACK (Simple & Practical)**
-
-* Frontend: React
-* Backend: Node.js + Express
-* Database: MongoDB
-* Auth: JWT
-
----
-
 # 📁 **PROJECT STRUCTURE**
 
 ```
